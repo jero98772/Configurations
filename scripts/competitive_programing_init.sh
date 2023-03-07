@@ -1,2 +1,0 @@
-wget -O template.cpp template.cpp https://raw.githubusercontent.com/jero98772/Gregos/main/core/__init__.py 
-eval "tee {A..$1}.cpp < template.cpp" #rember add argument as leeteer with the number of problems

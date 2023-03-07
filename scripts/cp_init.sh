@@ -1,0 +1,2 @@
+wget -O template.cpp https://raw.githubusercontent.com/jero98772/Configurations/main/templates_competitive_programing/my_template_competitive_programing.cpp
+eval "tee {A..$1}.cpp < template.cpp" #rember add argument as leeteer with the number of problems
