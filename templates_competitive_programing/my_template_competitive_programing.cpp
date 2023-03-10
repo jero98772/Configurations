@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 #define ll long long
 #define lli long long int
-#define "\n" el
+#define el "\n"
 void solve(){
 
 }
