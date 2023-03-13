@@ -2,10 +2,10 @@
 #define ll long long
 #define lli long long int
 #define el "\n"
+using namespace std;
 void solve(){
 
 }
-using namespace std;
 int main(){
 	int t;cin>>t;
 	while(t--){
