@@ -1,0 +1,8 @@
+#!/bin/sh
+cd ~
+source proyectos/GAS/gas/bin/activate
+cd ~
+pwd
+cd proyectos/GAS/
+figlet GAS
+python3 main.py

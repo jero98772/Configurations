@@ -1,0 +1,7 @@
+#!/bin/sh
+cd ~
+source proyectos/my_good_site/mygosite/bin/activate
+cd ~
+cd proyectos/my_good_site/
+figlet my_good_site
+python3 my_good_site.py

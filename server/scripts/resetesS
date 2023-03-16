@@ -1,0 +1,8 @@
+#!/bin/sh
+cd ~
+source proyectos/resetes/resetesenv/bin/activate
+cd ~
+pwd
+cd proyectos/resetes/
+figlet resetes
+python3 main.py

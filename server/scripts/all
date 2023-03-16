@@ -1,0 +1,20 @@
+#!/bin/sh
+cd ~
+source proyectos/AlOtroLado/alotrolado/bin/activate
+cd ~
+cd proyectos/AlOtroLado/
+figlet AlOtroLado
+python3 alOtroLado.py
+cd ~
+source proyectos/b-feelog/bfeel/bin/activate
+cd ~
+cd proyectos/b-feelog/
+figlet B-feelLog
+python3 B-FeelLog.py
+cd ~
+source proyectos/commap/commap/bin/activate
+cd proyectos/
+cd ~
+cd proyectos/commap/
+figlet commap
+python3 commap.py
